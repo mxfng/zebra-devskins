@@ -20,7 +20,7 @@ These Android emulator skins allow developers to create custom virtual devices f
 ## Specifications
 
 | Device Name | Skin Name | Type | Screen Size | Resolution | RAM | Buttons | Keyboard | States | Cameras |
-| ------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ------- | --- | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Zebra MC33 Series Long Range Scanner | zebra-mc330k | Phone/Tablet | 4" | 480 x 800 px | 4 GB | No | Yes | Portrait | No Cameras |
 
 ---
