@@ -3,8 +3,8 @@ parts {
         display {
             width 480
             height 800
-            x 202
-            y 310
+            x 103
+            y 226
         }
     }
 
@@ -12,136 +12,13 @@ parts {
         background {
             image background.png
         }
-
-        buttons {
-            home {
-                image big-button.png
-                x 353
-                y 1193
-            }
-            dpad-left {
-                image dpad-button.png
-                x 258
-                y 1284
-            }
-            dpad-up {
-                image dpad-button.png
-                x 359
-                y 1284
-            }
-            dpad-down {
-                image dpad-button.png
-                x 458
-                y 1284
-            }
-            dpad-right {
-                image dpad-button.png
-                x 558
-                y 1284
-            }
-            back {
-                image dpad-button.png
-                x 258
-                y 1355
-            }
-            ALT {
-                image dpad-button.png
-                x 458
-                y 1355
-            }
-            ALT2 {
-                image dpad-button.png
-                x 558
-                y 1355
-            }
-            1 {
-                image num-button.png
-                x 251
-                y 1415
-            }
-            2 {
-                image num-button.png
-                x 386
-                y 1415
-            }
-            3 {
-                image num-button.png
-                x 524
-                y 1415
-            }
-            4 {
-                image num-button.png
-                x 251
-                y 1498
-            }
-            5 {
-                image num-button.png
-                x 386
-                y 1498
-            }
-            6 {
-                image num-button.png
-                x 524
-                y 1498
-            }
-            7 {
-                image num-button.png
-                x 251
-                y 1585
-            }
-            8 {
-                image num-button.png
-                x 386
-                y 1585
-            }
-            9 {
-                image num-button.png
-                x 524
-                y 1585
-            }
-            PERIOD {
-                image num-button.png
-                x 251
-                y 1666
-            }
-            0 {
-                image num-button.png
-                x 386
-                y 1666
-            }
-            ENTER {
-                image num-button.png
-                x 524
-                y 1666
-            }
-            del {
-                image shift-button.png
-                x 265
-                y 1749
-            }
-            SPACE {
-                image shift-button.png
-                x 400
-                y 1749
-            }
-            CAP {
-                image shift-button.png
-                x 528
-                y 1749
-            }
-            power {
-                image power-button.png
-                x 580
-                y 1817
-            }
-        }
     }
 }
 
 layouts {
     portrait {
-        width 962
-        height 2021
+        width 686
+        height 1862
         event	EV_SW:0:1
 
         part1 {
@@ -152,8 +29,8 @@ layouts {
 
         part2 {
             name    device
-            x       202
-            y       310
+            x       103
+            y       226
         }
     }
 }
