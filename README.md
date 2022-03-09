@@ -25,8 +25,8 @@ These Android emulator skins allow developers to create custom virtual devices f
 | Device Name | Skin Name | Type | Screen Size | Resolution | RAM | Buttons | Keyboard | States | Cameras |
 | ------- | --- | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | MC33XX Series Mobile Computer | zebra-MC33XX | Phone/Tablet | 4" | 480 x 800 px | 4 GB | No | Yes | Portrait | No Cameras |
-| TC5X Series Mobile Computer | zebra-TC5X | Phone/Tablet | 5" | 720 x 1280 px | 4 GB | No | Yes | Portrait | No Cameras |
-| TC5X Series Rugged Mobile Computer | zebra-TC5X-rugged | Phone/Tablet | 5" | 720 x 1280 px | 4 GB | No | Yes | Portrait | No Cameras |
+| TC5X Series Mobile Computer | zebra-TC5X | Phone/Tablet | 5" | 720 x 1280 px | 4 GB | No | No | Portrait | No Cameras |
+| TC5X Series Rugged Mobile Computer | zebra-TC5X-rugged | Phone/Tablet | 5" | 720 x 1280 px | 4 GB | No | No | Portrait | No Cameras |
 
 ---
 
