@@ -4,7 +4,7 @@ These Android emulator skins allow developers to create custom virtual devices f
 
 ## Included Products
 
-* Zebra MC33 Series Long Range Barcode Scanner
+* Zebra MC3300 Series Long Range Barcode Scanner
 * More coming soon!
 
 <img src="./zebra-mc3300/background.png" alt="preview" width="200"/>
